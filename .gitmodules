@@ -1,3 +1,6 @@
 [submodule "Dart-projects"]
 	path = Dart-projects
 	url = https://github.com/Tebogo-se/Dart-projects
+[submodule "LoginSimulator"]
+	path = LoginSimulator
+	url = https://github.com/Tebogo-se/Secure-Login-simulator.git
